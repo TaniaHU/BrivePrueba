@@ -1,0 +1,16 @@
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.deps.json
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.runtimeconfig.json
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.runtimeconfig.dev.json
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.dll
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.pdb
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.BOL.dll
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.BOL.pdb
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.AssemblyReference.cache
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.AssemblyInfoInputs.cache
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.AssemblyInfo.cs
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.CoreCompileInputs.cache
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.CopyComplete
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.dll
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.pdb
+D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.genruntimeconfig.cache
