@@ -24,7 +24,7 @@ namespace ACME.BLL.MetodosBLL
         }
         public List<ProductoViewModel> GetVMListProducto(int id)
         {
-            return _objDB.GetVMListProducto(id);
+            return _objDB.GetVMListProducto(id); // dar F12 sobre GetVMListProducto
         }
             public int Agrega(Producto _Item)
         {

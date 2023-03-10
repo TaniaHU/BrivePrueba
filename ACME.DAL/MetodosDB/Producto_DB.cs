@@ -25,6 +25,8 @@ namespace ACME.DAL.MetodosDB
         {
             return _context.Producto.ToList();
         }
+
+        // Obtiene listado por sucursalId
         public List<ProductoViewModel> GetVMListProducto(int id)
         {
             var categoria = (from p in _context.Producto

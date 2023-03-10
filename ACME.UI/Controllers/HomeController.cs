@@ -10,6 +10,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
+// La cadena de conexion se encuentra en ACME.Dal/ConfigApp.cs
+// Las clases se encuentran en ACME.BOL/Modelos
+
 namespace ACME.UI.Controllers
 {
     public class HomeController : Controller
@@ -96,7 +99,7 @@ namespace ACME.UI.Controllers
         // Listado de productos por sucursalId
         public IActionResult Productos(int id)
         {
-            return View(_unit.producto.GetVMListProducto(id));
+            return View(_unit.producto.GetVMListProducto(id)); // dar F12 sobre .GetVMListProducto o ir a ACME.BLL/MetodosBLL/Producto_BLL.cs para visualizar linq de consulta
         }
 
         //Abre modal agregar un producto o editar un producto
