@@ -28,14 +28,14 @@ namespace ACME.DAL.Migrations
                     b.Property<int>("Cantidad")
                         .HasColumnType("int");
 
-                    b.Property<int>("CodigoBarras")
-                        .HasColumnType("int");
+                    b.Property<string>("CodigoBarras")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("PrecioUnitario")
-                        .HasColumnType("bit");
+                    b.Property<double>("PrecioUnitario")
+                        .HasColumnType("float");
 
                     b.Property<int>("SucursalId")
                         .HasColumnType("int");

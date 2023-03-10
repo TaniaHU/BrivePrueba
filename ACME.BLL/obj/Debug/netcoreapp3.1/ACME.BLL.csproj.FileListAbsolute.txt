@@ -16,3 +16,21 @@ D:\VisualProyect\Nueva carpeta (2)\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.csp
 D:\VisualProyect\Nueva carpeta (2)\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.dll
 D:\VisualProyect\Nueva carpeta (2)\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.pdb
 D:\VisualProyect\Nueva carpeta (2)\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.genruntimeconfig.cache
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BLL.deps.json
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BLL.runtimeconfig.json
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BLL.runtimeconfig.dev.json
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BLL.dll
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BLL.pdb
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BOL.dll
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.DAL.dll
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.BOL.pdb
+D:\VisualProyect\BriveTest\ACME.BLL\bin\Debug\netcoreapp3.1\ACME.DAL.pdb
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.csproj.AssemblyReference.cache
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.AssemblyInfoInputs.cache
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.AssemblyInfo.cs
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.csproj.CoreCompileInputs.cache
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.csproj.CopyComplete
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.dll
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.pdb
+D:\VisualProyect\BriveTest\ACME.BLL\obj\Debug\netcoreapp3.1\ACME.BLL.genruntimeconfig.cache

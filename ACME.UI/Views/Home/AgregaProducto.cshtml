@@ -1,0 +1,66 @@
+﻿@model ACME.BOL.Modelos.Producto
+@{
+    SelectList selectSucursal = ViewData["Sucursal"] as SelectList;
+}
+<div class="modal-header">
+    <h5 class="modal-title" id="exampleModalLongTitle">
+        Productos
+    </h5>
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="modal-body">
+    <form id="FormModalProducto" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="ProductoId" />
+        <div class="form-group">
+            <label asp-for="Nombre" class="control-label"></label>
+            <input asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CodigoBarras" class="control-label"></label>
+            <input asp-for="CodigoBarras" class="form-control" />
+            <span asp-validation-for="CodigoBarras" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Cantidad" class="control-label"></label>
+            <input asp-for="Cantidad" class="form-control" />
+            <span asp-validation-for="Cantidad" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PrecioUnitario" class="control-label"></label>
+            <input asp-for="PrecioUnitario" class="form-control" />
+            <span asp-validation-for="PrecioUnitario" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SucursalId" class="control-label">Sucursal</label>
+            <select class="form-control" asp-for="SucursalId" asp-items="selectSucursal">
+                <option selected>Seleccione</option>
+
+            </select>
+        </div>
+
+    </form>
+</div>
+
+<div class="modal-footer">
+    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+    <button type="button" class="btn btn-primary" onclick="GuardaProducto()">Guardar</button>
+</div>
+
+<script type="text/javascript">
+    
+    function SelectList() {
+        var SucursalId = $("#SucursalId option:selected").val();
+        if (SucursalId > 0) {
+            $('#Buscador').attr("hidden", true);
+        }
+        else {
+            $('#Buscador').attr("hidden", false);
+        }
+    }
+  
+</script>
+

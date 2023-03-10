@@ -1,4 +1,5 @@
 ﻿using ACME.BOL.Modelos;
+using ACME.BOL.ModelosSistema;
 using ACME.DAL.MetodosDB;
 using System;
 using System.Collections.Generic;
@@ -21,7 +22,11 @@ namespace ACME.BLL.MetodosBLL
         {
             return _objDB.GetListProducto();
         }
-        public int Agrega(Producto _Item)
+        public List<ProductoViewModel> GetVMListProducto(int id)
+        {
+            return _objDB.GetVMListProducto(id);
+        }
+            public int Agrega(Producto _Item)
         {
             return _objDB.Agrega(_Item);
         }

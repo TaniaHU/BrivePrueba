@@ -11,3 +11,16 @@ D:\VisualProyect\Nueva carpeta (2)\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.csp
 D:\VisualProyect\Nueva carpeta (2)\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.dll
 D:\VisualProyect\Nueva carpeta (2)\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.pdb
 D:\VisualProyect\Nueva carpeta (2)\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.genruntimeconfig.cache
+D:\VisualProyect\BriveTest\ACME.BOL\bin\Debug\netcoreapp3.1\ACME.BOL.deps.json
+D:\VisualProyect\BriveTest\ACME.BOL\bin\Debug\netcoreapp3.1\ACME.BOL.runtimeconfig.json
+D:\VisualProyect\BriveTest\ACME.BOL\bin\Debug\netcoreapp3.1\ACME.BOL.runtimeconfig.dev.json
+D:\VisualProyect\BriveTest\ACME.BOL\bin\Debug\netcoreapp3.1\ACME.BOL.dll
+D:\VisualProyect\BriveTest\ACME.BOL\bin\Debug\netcoreapp3.1\ACME.BOL.pdb
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.AssemblyInfoInputs.cache
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.AssemblyInfo.cs
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.csproj.CoreCompileInputs.cache
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.dll
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.pdb
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.genruntimeconfig.cache
+D:\VisualProyect\BriveTest\ACME.BOL\obj\Debug\netcoreapp3.1\ACME.BOL.csproj.AssemblyReference.cache

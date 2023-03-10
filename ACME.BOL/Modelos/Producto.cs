@@ -10,9 +10,9 @@ namespace ACME.BOL.Modelos
         [Key]
         public int ProductoId { get; set; }
         public string Nombre { get; set; }
-        public int CodigoBarras { get; set; }
+        public string CodigoBarras { get; set; }
         public int Cantidad { get; set; }
-        public bool PrecioUnitario { get; set; }
+        public double PrecioUnitario { get; set; }
         public int SucursalId { get; set; }
     }
 }

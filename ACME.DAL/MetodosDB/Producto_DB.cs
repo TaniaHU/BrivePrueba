@@ -1,4 +1,5 @@
 ﻿using ACME.BOL.Modelos;
+using ACME.BOL.ModelosSistema;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,24 @@ namespace ACME.DAL.MetodosDB
         {
             return _context.Producto.ToList();
         }
+        public List<ProductoViewModel> GetVMListProducto(int id)
+        {
+            var categoria = (from p in _context.Producto
+                             join s in _context.Sucursal on p.SucursalId equals s.SucursalId
+                             where id == s.SucursalId
+                             select new ProductoViewModel
+                             {
+                              ProductoId = p.ProductoId,
+                              Cantidad = p.Cantidad,
+                              CodigoBarras = p.CodigoBarras,
+                              Nombre = p.Nombre,
+                              NomSucursal = s.Nombre,
+                              PrecioUnitario = p.PrecioUnitario,
+                              SucursalId = p.SucursalId
+                             }).ToList();
+            return categoria;
+        }
+
         public int Agrega(Producto _Item)
         {
             _context.Producto.Add(_Item);

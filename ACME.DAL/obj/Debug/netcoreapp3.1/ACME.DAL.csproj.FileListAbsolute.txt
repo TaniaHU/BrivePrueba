@@ -14,3 +14,19 @@ D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csp
 D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.dll
 D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.pdb
 D:\VisualProyect\Nueva carpeta (2)\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.genruntimeconfig.cache
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.deps.json
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.runtimeconfig.json
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.runtimeconfig.dev.json
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.dll
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.DAL.pdb
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.BOL.dll
+D:\VisualProyect\BriveTest\ACME.DAL\bin\Debug\netcoreapp3.1\ACME.BOL.pdb
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.AssemblyReference.cache
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.AssemblyInfoInputs.cache
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.AssemblyInfo.cs
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.CoreCompileInputs.cache
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.csproj.CopyComplete
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.dll
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.pdb
+D:\VisualProyect\BriveTest\ACME.DAL\obj\Debug\netcoreapp3.1\ACME.DAL.genruntimeconfig.cache
