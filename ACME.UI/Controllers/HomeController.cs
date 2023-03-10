@@ -12,6 +12,9 @@ using System.Threading.Tasks;
 
 // La cadena de conexion se encuentra en ACME.Dal/ConfigApp.cs
 // Las clases se encuentran en ACME.BOL/Modelos
+//
+//Tania Hernandez
+
 
 namespace ACME.UI.Controllers
 {
@@ -105,7 +108,7 @@ namespace ACME.UI.Controllers
         //Abre modal agregar un producto o editar un producto
         public IActionResult AgregaProducto(int? id)
         {
-            ViewData["Sucursal"] = new SelectList(_unit.sucursal.GetListSucursal(), "SucursalId", "Nombre");
+            ViewData["Sucursal"] = new SelectList(_unit.sucursal.GetListSucursal(), "SucursalId", "Nombre"); // Crea SelectList de sucursales
             Producto producto = _unit.producto.GetProductoId(id.Value);
             return PartialView(producto);
         }
